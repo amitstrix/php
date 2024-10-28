@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Data Json Call in php</h1>
     <?php 
 $url='user.json';
 $data=file_get_contents($url);
